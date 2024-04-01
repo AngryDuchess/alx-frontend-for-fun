@@ -557,6 +557,7 @@ ul.row {
 .section-hero .section-inner {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: flex-start;
     min-height: 50vh;
 }
